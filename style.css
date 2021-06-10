@@ -1,0 +1,98 @@
+/* google fonst
+font-family: 'Montserrat', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Sacramento', cursive; */
+body {
+
+}
+h1{
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-family:'Montserrat', sans-serif;
+  text-decoration: underline;
+  color: lightgray;
+
+}
+
+h2 {
+  margin-top: 30px;
+  position: absolute;
+  text-align: center;
+
+}
+h3{text-align: center;
+
+}
+
+.titolo {
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 50px 20px 50px;
+  text-align: center;
+}
+
+.logo22 {
+  width: 40%;
+}
+
+.container-fluid {
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+
+.card1 {
+  padding-top: 30px;
+  margin: auto;
+}
+
+.carousel-item {
+  height: 200px;
+
+}
+.cimage{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 200px;
+}
+.card-title{
+  text-align: center;
+}
+
+.cardtext{
+  margin: 20px 40px 20px 40px;
+  text-align: left;
+}
+
+.contati{
+  position: relative;
+  padding-top: 50px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 80%;
+}
+.contati img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.card {
+  padding: 10px 10px 10px 10px;
+}
+.bonus110{
+  font-family:serif;
+  text-align: left;
+  margin:10px 20px;
+  background-color: lightgray;
+}
+
+@media only screen and (min-width: 600px) {
+
+}
